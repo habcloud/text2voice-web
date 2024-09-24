@@ -127,7 +127,7 @@ function makeRequest(url, isPreview, text) {
         url: url,
         method: 'GET',
         headers: {
-            'x-api-key': '@ak47'
+            'x-api-key': 'asqee234rreefdds2wwe445'
         },
         xhrFields: {
             responseType: 'blob'
