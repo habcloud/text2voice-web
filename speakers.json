@@ -1,6 +1,6 @@
 {
     "voice-api": {
-        "url": "https://ttsapi.zwei.de.eu.org/tts",
+        "url": "https://api.voice.hab.cloudns.ch/tts",
         "speakers": {
             "zh-CN-XiaoxiaoNeural": "晓晓",
             "zh-CN-YunxiNeural": "云希",
